@@ -63,11 +63,15 @@ Accept the year and display the year vertically on the screen
 
 ### 14.sh
 This script evaluates an age. If the age is greater than 21, the script displays the message "Adult", otherwise the script displays the message "Not an Adult". This script calls the following test values as ages when run:
+
+```
 12
 22
 21
 20
 7
+```
+
 
 ### 15.sh
 This script accepts 10 integers from a user into an array. This array is then sorted in both descending and ascending order.
